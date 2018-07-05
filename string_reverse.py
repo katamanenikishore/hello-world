@@ -6,3 +6,4 @@ for item in reversed(inp.split(' ')):
     list1.append(item)
     
 print ' '.join(list1)
+print 'test'
